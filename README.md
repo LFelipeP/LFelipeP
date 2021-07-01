@@ -1,16 +1,19 @@
-### Hi there 👋
+# LFelipeP
 
-<!--
-**LFelipeP/LFelipeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm 18 years old, Program since I was 14 years old, Currently interning as a back-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmer Skills
+
+- **C#**
+    - C# with .Net Core
+    - C# with Unity
+- **Java Script**
+    - Node.JS
+    - React.JS
+    - React Native
+- **Flutter**
+    - Some projects in flutter
+- **Java**
+    - All basics java features
