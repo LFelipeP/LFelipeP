@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm 18 years old, Program since I was 14 , Currently interning as a back-end developer.
+I'm 18 years old, Program since I was 14 , Currently working as a mid-level back-end developer.
 
 ### Programmer Skills
 
