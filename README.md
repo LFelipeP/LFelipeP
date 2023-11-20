@@ -7,7 +7,7 @@ I'm 19 years old, Program since I was 14 , Currently working as a mid-level back
 ### Programmer Skills
 
 - **C#**
-    - C# with .Net Core
+    - C# with .Net
     - C# with Unity
 - **Java Script**
     - Node.JS
