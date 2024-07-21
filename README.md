@@ -9,6 +9,8 @@ I'm 20 years old, Program since I was 14 , Currently working as a mid-level back
 - **C#**
     - C# with .Net
     - C# with Unity
+- **Go**
+    - Learning Go
 - **Java Script**
     - Node.JS
     - React.JS
